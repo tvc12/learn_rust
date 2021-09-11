@@ -20,3 +20,9 @@ If the install is successful, the following line will appear
 + [Hello World](./day1/hello_world/README.md)
 + [Use Cargo](./day1/hello_cargo/README.md)
 + [First Rust Project](./day1/guessing_game/README.md)
++ [Variables and Mutability](./day1/var_and_mut/README.md)
+
+
+### License
+
+[MIT@tvc12](./LICENSE)
