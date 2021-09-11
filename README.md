@@ -21,7 +21,7 @@ If the install is successful, the following line will appear
 + [Use Cargo](./day1/hello_cargo/README.md)
 + [First Rust Project](./day1/guessing_game/README.md)
 + [Variables and Mutability](./day1/var_and_mut/README.md)
-
++ [Data Types](./day1/data_type/README.md)
 
 ### License
 
